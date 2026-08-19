@@ -1,0 +1,14 @@
+{
+  "id": "9300102",
+  "name": "护卫用小浣猪",
+  "frames": 12,
+  "sizes": [
+    "68x50",
+    "68x51",
+    "68x52",
+    "68x53",
+    "70x46",
+    "71x49"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

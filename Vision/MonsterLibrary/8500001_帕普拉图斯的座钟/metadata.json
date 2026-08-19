@@ -1,0 +1,17 @@
+{
+  "id": "8500001",
+  "name": "帕普拉图斯的座钟",
+  "frames": 9,
+  "sizes": [
+    "133x145",
+    "178x190",
+    "204x214",
+    "234x247",
+    "274x276",
+    "281x287",
+    "40x41",
+    "78x80",
+    "94x96"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

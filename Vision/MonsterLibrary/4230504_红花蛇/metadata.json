@@ -1,0 +1,20 @@
+{
+  "id": "4230504",
+  "name": "红花蛇",
+  "frames": 14,
+  "sizes": [
+    "20x21",
+    "46x56",
+    "47x57",
+    "48x56",
+    "50x58",
+    "52x58",
+    "56x58",
+    "56x67",
+    "61x64",
+    "65x71",
+    "70x70",
+    "80x70"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

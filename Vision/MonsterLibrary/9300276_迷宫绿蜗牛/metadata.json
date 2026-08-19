@@ -1,0 +1,16 @@
+{
+  "id": "9300276",
+  "name": "迷宫绿蜗牛",
+  "frames": 8,
+  "sizes": [
+    "35x34",
+    "37x34",
+    "39x32",
+    "39x34",
+    "41x34",
+    "41x39",
+    "47x29",
+    "56x27"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

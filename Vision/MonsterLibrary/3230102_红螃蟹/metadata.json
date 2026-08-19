@@ -1,0 +1,17 @@
+{
+  "id": "3230102",
+  "name": "红螃蟹",
+  "frames": 12,
+  "sizes": [
+    "56x45",
+    "56x46",
+    "58x63",
+    "60x45",
+    "60x46",
+    "65x29",
+    "70x56",
+    "72x56",
+    "76x62"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

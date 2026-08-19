@@ -1,0 +1,17 @@
+{
+  "id": "9500320",
+  "name": "迷路的圣诞鹿",
+  "frames": 16,
+  "sizes": [
+    "72x117",
+    "73x117",
+    "73x118",
+    "74x117",
+    "74x122",
+    "75x109",
+    "77x101",
+    "77x107",
+    "86x117"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

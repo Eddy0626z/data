@@ -1,0 +1,17 @@
+{
+  "id": "9600002",
+  "name": "大头鸭",
+  "frames": 15,
+  "sizes": [
+    "46x54",
+    "46x64",
+    "46x65",
+    "47x65",
+    "48x58",
+    "49x63",
+    "51x62",
+    "58x39",
+    "58x48"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

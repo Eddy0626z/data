@@ -1,0 +1,17 @@
+{
+  "id": "1120100",
+  "name": "三眼章鱼",
+  "frames": 10,
+  "sizes": [
+    "62x69",
+    "64x70",
+    "65x70",
+    "65x72",
+    "66x69",
+    "66x70",
+    "67x68",
+    "74x80",
+    "89x57"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

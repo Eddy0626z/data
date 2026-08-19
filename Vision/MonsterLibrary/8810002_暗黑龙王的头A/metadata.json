@@ -1,0 +1,16 @@
+{
+  "id": "8810002",
+  "name": "暗黑龙王的头A",
+  "frames": 8,
+  "sizes": [
+    "107x120",
+    "154x155",
+    "180x181",
+    "207x208",
+    "246x258",
+    "296x297",
+    "33x43",
+    "73x83"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

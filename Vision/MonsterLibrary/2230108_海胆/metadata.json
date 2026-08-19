@@ -1,0 +1,18 @@
+{
+  "id": "2230108",
+  "name": "海胆",
+  "frames": 11,
+  "sizes": [
+    "33x30",
+    "36x29",
+    "38x25",
+    "40x27",
+    "43x25",
+    "45x48",
+    "54x57",
+    "60x59",
+    "71x64",
+    "75x68"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

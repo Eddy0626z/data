@@ -1,0 +1,15 @@
+{
+  "id": "9300050",
+  "name": "幼魔精灵",
+  "frames": 13,
+  "sizes": [
+    "43x51",
+    "48x46",
+    "48x55",
+    "51x50",
+    "55x34",
+    "56x34",
+    "66x42"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

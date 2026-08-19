@@ -1,0 +1,17 @@
+{
+  "id": "9500321",
+  "name": "小雪人",
+  "frames": 9,
+  "sizes": [
+    "66x80",
+    "68x73",
+    "68x79",
+    "69x78",
+    "73x75",
+    "73x86",
+    "73x89",
+    "79x74",
+    "87x73"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

@@ -1,0 +1,547 @@
+﻿{
+    "schemaVersion":  2,
+    "library":  "MapleVision bundled monster assets",
+    "monsterCount":  89,
+    "frameCount":  1571,
+    "source":  "E:/mxd/mxd/assets/monsters_mcw_v1",
+    "sprites":  [
+                    {
+                        "id":  "1",
+                        "name":  "Tutorial Jr. Sentinel",
+                        "frames":  14,
+                        "folder":  "MonsterLibrary/0000001_Tutorial Jr. Sentinel"
+                    },
+                    {
+                        "id":  "2",
+                        "name":  "Snail",
+                        "frames":  16,
+                        "folder":  "MonsterLibrary/0000002_Snail"
+                    },
+                    {
+                        "id":  "3",
+                        "name":  "Blue Snail",
+                        "frames":  9,
+                        "folder":  "MonsterLibrary/0000003_Blue Snail"
+                    },
+                    {
+                        "id":  "4",
+                        "name":  "Shroom",
+                        "frames":  12,
+                        "folder":  "MonsterLibrary/0000004_Shroom"
+                    },
+                    {
+                        "id":  "5",
+                        "name":  "Red Snail",
+                        "frames":  9,
+                        "folder":  "MonsterLibrary/0000005_Red Snail"
+                    },
+                    {
+                        "id":  "6",
+                        "name":  "Stump",
+                        "frames":  9,
+                        "folder":  "MonsterLibrary/0000006_Stump"
+                    },
+                    {
+                        "id":  "7",
+                        "name":  "Slime",
+                        "frames":  16,
+                        "folder":  "MonsterLibrary/0000007_Slime"
+                    },
+                    {
+                        "id":  "8",
+                        "name":  "Pig",
+                        "frames":  11,
+                        "folder":  "MonsterLibrary/0000008_Pig"
+                    },
+                    {
+                        "id":  "9",
+                        "name":  "Orange Mushroom",
+                        "frames":  10,
+                        "folder":  "MonsterLibrary/0000009_Orange Mushroom"
+                    },
+                    {
+                        "id":  "10",
+                        "name":  "Ribbon Pig",
+                        "frames":  11,
+                        "folder":  "MonsterLibrary/0000010_Ribbon Pig"
+                    },
+                    {
+                        "id":  "11",
+                        "name":  "Dark Stump",
+                        "frames":  9,
+                        "folder":  "MonsterLibrary/0000011_Dark Stump"
+                    },
+                    {
+                        "id":  "12",
+                        "name":  "Octopus",
+                        "frames":  15,
+                        "folder":  "MonsterLibrary/0000012_Octopus"
+                    },
+                    {
+                        "id":  "13",
+                        "name":  "Green Mushroom",
+                        "frames":  12,
+                        "folder":  "MonsterLibrary/0000013_Green Mushroom"
+                    },
+                    {
+                        "id":  "14",
+                        "name":  "Bubbling",
+                        "frames":  16,
+                        "folder":  "MonsterLibrary/0000014_Bubbling"
+                    },
+                    {
+                        "id":  "15",
+                        "name":  "Axe Stump",
+                        "frames":  10,
+                        "folder":  "MonsterLibrary/0000015_Axe Stump"
+                    },
+                    {
+                        "id":  "16",
+                        "name":  "Blue Mushroom",
+                        "frames":  10,
+                        "folder":  "MonsterLibrary/0000016_Blue Mushroom"
+                    },
+                    {
+                        "id":  "17",
+                        "name":  "Stirge",
+                        "frames":  7,
+                        "folder":  "MonsterLibrary/0000017_Stirge"
+                    },
+                    {
+                        "id":  "18",
+                        "name":  "Jr. Necki",
+                        "frames":  10,
+                        "folder":  "MonsterLibrary/0000018_Jr. Necki"
+                    },
+                    {
+                        "id":  "19",
+                        "name":  "Horny Mushroom",
+                        "frames":  12,
+                        "folder":  "MonsterLibrary/0000019_Horny Mushroom"
+                    },
+                    {
+                        "id":  "20",
+                        "name":  "Dark Axe Stump",
+                        "frames":  10,
+                        "folder":  "MonsterLibrary/0000020_Dark Axe Stump"
+                    },
+                    {
+                        "id":  "21",
+                        "name":  "Zombie Mushroom",
+                        "frames":  11,
+                        "folder":  "MonsterLibrary/0000021_Zombie Mushroom"
+                    },
+                    {
+                        "id":  "22",
+                        "name":  "Wild Boar",
+                        "frames":  13,
+                        "folder":  "MonsterLibrary/0000022_Wild Boar"
+                    },
+                    {
+                        "id":  "23",
+                        "name":  "Evil Eye",
+                        "frames":  12,
+                        "folder":  "MonsterLibrary/0000023_Evil Eye"
+                    },
+                    {
+                        "id":  "24",
+                        "name":  "Iron Hog",
+                        "frames":  19,
+                        "folder":  "MonsterLibrary/0000024_Iron Hog"
+                    },
+                    {
+                        "id":  "25",
+                        "name":  "Fairy 1",
+                        "frames":  25,
+                        "folder":  "MonsterLibrary/0000025_Fairy 1"
+                    },
+                    {
+                        "id":  "26",
+                        "name":  "Fairy 2",
+                        "frames":  25,
+                        "folder":  "MonsterLibrary/0000026_Fairy 2"
+                    },
+                    {
+                        "id":  "27",
+                        "name":  "Fairy 3",
+                        "frames":  25,
+                        "folder":  "MonsterLibrary/0000027_Fairy 3"
+                    },
+                    {
+                        "id":  "28",
+                        "name":  "Fairy 4",
+                        "frames":  25,
+                        "folder":  "MonsterLibrary/0000028_Fairy 4"
+                    },
+                    {
+                        "id":  "29",
+                        "name":  "Ligator",
+                        "frames":  10,
+                        "folder":  "MonsterLibrary/0000029_Ligator"
+                    },
+                    {
+                        "id":  "30",
+                        "name":  "Fire Boar",
+                        "frames":  13,
+                        "folder":  "MonsterLibrary/0000030_Fire Boar"
+                    },
+                    {
+                        "id":  "31",
+                        "name":  "Curse Eye",
+                        "frames":  12,
+                        "folder":  "MonsterLibrary/0000031_Curse Eye"
+                    },
+                    {
+                        "id":  "32",
+                        "name":  "Jr. Wraith",
+                        "frames":  14,
+                        "folder":  "MonsterLibrary/0000032_Jr. Wraith"
+                    },
+                    {
+                        "id":  "33",
+                        "name":  "Jr. Boogie 1",
+                        "frames":  27,
+                        "folder":  "MonsterLibrary/0000033_Jr. Boogie 1"
+                    },
+                    {
+                        "id":  "34",
+                        "name":  "Jr. Boogie 2",
+                        "frames":  27,
+                        "folder":  "MonsterLibrary/0000034_Jr. Boogie 2"
+                    },
+                    {
+                        "id":  "35",
+                        "name":  "Lupin",
+                        "frames":  20,
+                        "folder":  "MonsterLibrary/0000035_Lupin"
+                    },
+                    {
+                        "id":  "36",
+                        "name":  "Lorang",
+                        "frames":  12,
+                        "folder":  "MonsterLibrary/0000036_Lorang"
+                    },
+                    {
+                        "id":  "37",
+                        "name":  "Cold Eye",
+                        "frames":  12,
+                        "folder":  "MonsterLibrary/0000037_Cold Eye"
+                    },
+                    {
+                        "id":  "38",
+                        "name":  "Zombie Lupin",
+                        "frames":  21,
+                        "folder":  "MonsterLibrary/0000038_Zombie Lupin"
+                    },
+                    {
+                        "id":  "40",
+                        "name":  "Copper Drake",
+                        "frames":  14,
+                        "folder":  "MonsterLibrary/0000040_Copper Drake"
+                    },
+                    {
+                        "id":  "41",
+                        "name":  "Tortie",
+                        "frames":  11,
+                        "folder":  "MonsterLibrary/0000041_Tortie"
+                    },
+                    {
+                        "id":  "43",
+                        "name":  "Wraith",
+                        "frames":  13,
+                        "folder":  "MonsterLibrary/0000043_Wraith"
+                    },
+                    {
+                        "id":  "44",
+                        "name":  "Clang",
+                        "frames":  12,
+                        "folder":  "MonsterLibrary/0000044_Clang"
+                    },
+                    {
+                        "id":  "45",
+                        "name":  "Drake",
+                        "frames":  14,
+                        "folder":  "MonsterLibrary/0000045_Drake"
+                    },
+                    {
+                        "id":  "46",
+                        "name":  "Croco",
+                        "frames":  10,
+                        "folder":  "MonsterLibrary/0000046_Croco"
+                    },
+                    {
+                        "id":  "47",
+                        "name":  "Malady",
+                        "frames":  8,
+                        "folder":  "MonsterLibrary/0000047_Malady"
+                    },
+                    {
+                        "id":  "48",
+                        "name":  "Stone Golem",
+                        "frames":  25,
+                        "folder":  "MonsterLibrary/0000048_Stone Golem"
+                    },
+                    {
+                        "id":  "49",
+                        "name":  "Dark Stone Golem",
+                        "frames":  24,
+                        "folder":  "MonsterLibrary/0000049_Dark Stone Golem"
+                    },
+                    {
+                        "id":  "50",
+                        "name":  "Red Drake",
+                        "frames":  16,
+                        "folder":  "MonsterLibrary/0000050_Red Drake"
+                    },
+                    {
+                        "id":  "51",
+                        "name":  "Wild Kargo",
+                        "frames":  13,
+                        "folder":  "MonsterLibrary/0000051_Wild Kargo"
+                    },
+                    {
+                        "id":  "52",
+                        "name":  "Tauromacis",
+                        "frames":  32,
+                        "folder":  "MonsterLibrary/0000052_Tauromacis"
+                    },
+                    {
+                        "id":  "53",
+                        "name":  "Taurospear",
+                        "frames":  41,
+                        "folder":  "MonsterLibrary/0000053_Taurospear"
+                    },
+                    {
+                        "id":  "54",
+                        "name":  "Glowshroom",
+                        "frames":  12,
+                        "folder":  "MonsterLibrary/0000054_Glowshroom"
+                    },
+                    {
+                        "id":  "55",
+                        "name":  "Raffle",
+                        "frames":  24,
+                        "folder":  "MonsterLibrary/0000055_Raffle"
+                    },
+                    {
+                        "id":  "56",
+                        "name":  "Golden Stirge",
+                        "frames":  7,
+                        "folder":  "MonsterLibrary/0000056_Golden Stirge"
+                    },
+                    {
+                        "id":  "57",
+                        "name":  "Aqumander",
+                        "frames":  16,
+                        "folder":  "MonsterLibrary/0000057_Aqumander"
+                    },
+                    {
+                        "id":  "58",
+                        "name":  "Echopus",
+                        "frames":  15,
+                        "folder":  "MonsterLibrary/0000058_Echopus"
+                    },
+                    {
+                        "id":  "59",
+                        "name":  "Rafflesia",
+                        "frames":  24,
+                        "folder":  "MonsterLibrary/0000059_Rafflesia"
+                    },
+                    {
+                        "id":  "60",
+                        "name":  "Duskmander",
+                        "frames":  16,
+                        "folder":  "MonsterLibrary/0000060_Duskmander"
+                    },
+                    {
+                        "id":  "61",
+                        "name":  "Myewood",
+                        "frames":  32,
+                        "folder":  "MonsterLibrary/0000061_Myewood"
+                    },
+                    {
+                        "id":  "62",
+                        "name":  "Rotten Mushroom",
+                        "frames":  12,
+                        "folder":  "MonsterLibrary/0000062_Rotten Mushroom"
+                    },
+                    {
+                        "id":  "63",
+                        "name":  "Sporewood",
+                        "frames":  39,
+                        "folder":  "MonsterLibrary/0000063_Sporewood"
+                    },
+                    {
+                        "id":  "90",
+                        "name":  "Super Jr. Necki",
+                        "frames":  10,
+                        "folder":  "MonsterLibrary/0000090_Super Jr. Necki"
+                    },
+                    {
+                        "id":  "91",
+                        "name":  "Super Slime",
+                        "frames":  16,
+                        "folder":  "MonsterLibrary/0000091_Super Slime"
+                    },
+                    {
+                        "id":  "92",
+                        "name":  "Super Ribbon-Pig",
+                        "frames":  11,
+                        "folder":  "MonsterLibrary/0000092_Super Ribbon-Pig"
+                    },
+                    {
+                        "id":  "93",
+                        "name":  "Super Stirge",
+                        "frames":  7,
+                        "folder":  "MonsterLibrary/0000093_Super Stirge"
+                    },
+                    {
+                        "id":  "700000",
+                        "name":  "Mushmom",
+                        "frames":  20,
+                        "folder":  "MonsterLibrary/0700000_Mushmom"
+                    },
+                    {
+                        "id":  "700001",
+                        "name":  "Jr. Balrog",
+                        "frames":  31,
+                        "folder":  "MonsterLibrary/0700001_Jr. Balrog"
+                    },
+                    {
+                        "id":  "700002",
+                        "name":  "Zombie Mushmom",
+                        "frames":  19,
+                        "folder":  "MonsterLibrary/0700002_Zombie Mushmom"
+                    },
+                    {
+                        "id":  "700003",
+                        "name":  "Rotten Mushmom",
+                        "frames":  59,
+                        "folder":  "MonsterLibrary/0700003_Rotten Mushmom"
+                    },
+                    {
+                        "id":  "700004",
+                        "name":  "Mano",
+                        "frames":  35,
+                        "folder":  "MonsterLibrary/0700004_Mano"
+                    },
+                    {
+                        "id":  "800000",
+                        "name":  "Ligator",
+                        "frames":  10,
+                        "folder":  "MonsterLibrary/0800000_Ligator"
+                    },
+                    {
+                        "id":  "800001",
+                        "name":  "Jr. Necki",
+                        "frames":  10,
+                        "folder":  "MonsterLibrary/0800001_Jr. Necki"
+                    },
+                    {
+                        "id":  "800002",
+                        "name":  "Curse Eye",
+                        "frames":  12,
+                        "folder":  "MonsterLibrary/0800002_Curse Eye"
+                    },
+                    {
+                        "id":  "800003",
+                        "name":  "King Slime",
+                        "frames":  38,
+                        "folder":  "MonsterLibrary/0800003_King Slime"
+                    },
+                    {
+                        "id":  "800010",
+                        "name":  "Evil Eye",
+                        "frames":  12,
+                        "folder":  "MonsterLibrary/0800010_Evil Eye"
+                    },
+                    {
+                        "id":  "800011",
+                        "name":  "Zombie Mushroom",
+                        "frames":  11,
+                        "folder":  "MonsterLibrary/0800011_Zombie Mushroom"
+                    },
+                    {
+                        "id":  "800012",
+                        "name":  "Curse Eye",
+                        "frames":  12,
+                        "folder":  "MonsterLibrary/0800012_Curse Eye"
+                    },
+                    {
+                        "id":  "800013",
+                        "name":  "Horny Mushroom",
+                        "frames":  12,
+                        "folder":  "MonsterLibrary/0800013_Horny Mushroom"
+                    },
+                    {
+                        "id":  "800014",
+                        "name":  "Cold Eye",
+                        "frames":  12,
+                        "folder":  "MonsterLibrary/0800014_Cold Eye"
+                    },
+                    {
+                        "id":  "800015",
+                        "name":  "Blue Mushroom",
+                        "frames":  10,
+                        "folder":  "MonsterLibrary/0800015_Blue Mushroom"
+                    },
+                    {
+                        "id":  "800016",
+                        "name":  "Fire Boar",
+                        "frames":  13,
+                        "folder":  "MonsterLibrary/0800016_Fire Boar"
+                    },
+                    {
+                        "id":  "800017",
+                        "name":  "Lupin",
+                        "frames":  20,
+                        "folder":  "MonsterLibrary/0800017_Lupin"
+                    },
+                    {
+                        "id":  "800018",
+                        "name":  "Mano",
+                        "frames":  35,
+                        "folder":  "MonsterLibrary/0800018_Mano"
+                    },
+                    {
+                        "id":  "800019",
+                        "name":  "King Slime",
+                        "frames":  38,
+                        "folder":  "MonsterLibrary/0800019_King Slime"
+                    },
+                    {
+                        "id":  "800020",
+                        "name":  "Mushmom",
+                        "frames":  20,
+                        "folder":  "MonsterLibrary/0800020_Mushmom"
+                    },
+                    {
+                        "id":  "800021",
+                        "name":  "Zombie Mushmom",
+                        "frames":  19,
+                        "folder":  "MonsterLibrary/0800021_Zombie Mushmom"
+                    },
+                    {
+                        "id":  "800022",
+                        "name":  "Rotten Mushmom",
+                        "frames":  59,
+                        "folder":  "MonsterLibrary/0800022_Rotten Mushmom"
+                    },
+                    {
+                        "id":  "800023",
+                        "name":  "Jr. Balrog",
+                        "frames":  31,
+                        "folder":  "MonsterLibrary/0800023_Jr. Balrog"
+                    },
+                    {
+                        "id":  "9990000",
+                        "name":  "TestMob",
+                        "frames":  8,
+                        "folder":  "MonsterLibrary/9990000_TestMob"
+                    }
+                ],
+    "models":  [
+                   "Models/monster.onnx",
+                   "Models/monster-prelabel.onnx"
+               ]
+}

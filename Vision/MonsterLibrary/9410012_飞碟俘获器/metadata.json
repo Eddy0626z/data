@@ -1,0 +1,15 @@
+{
+  "id": "9410012",
+  "name": "飞碟俘获器",
+  "frames": 12,
+  "sizes": [
+    "100x88",
+    "100x90",
+    "101x92",
+    "88x91",
+    "88x92",
+    "90x97",
+    "93x102"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

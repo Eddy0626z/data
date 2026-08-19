@@ -1,0 +1,17 @@
+{
+  "id": "9300081",
+  "name": "飞眼",
+  "frames": 10,
+  "sizes": [
+    "38x40",
+    "42x56",
+    "42x58",
+    "42x63",
+    "42x73",
+    "42x88",
+    "57x28",
+    "57x64",
+    "85x35"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "9500307",
+  "name": "树妖王",
+  "frames": 5,
+  "sizes": [
+    "139x149",
+    "184x196",
+    "234x247",
+    "48x60",
+    "95x107"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

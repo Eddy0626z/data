@@ -1,0 +1,17 @@
+{
+  "id": "2230110",
+  "name": "木面怪人",
+  "frames": 21,
+  "sizes": [
+    "84x82",
+    "84x83",
+    "84x84",
+    "84x85",
+    "84x86",
+    "85x83",
+    "85x85",
+    "86x82",
+    "86x86"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

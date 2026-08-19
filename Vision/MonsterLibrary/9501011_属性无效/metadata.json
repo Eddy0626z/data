@@ -1,0 +1,16 @@
+{
+  "id": "9501011",
+  "name": "属性无效",
+  "frames": 19,
+  "sizes": [
+    "43x51",
+    "48x46",
+    "48x55",
+    "51x50",
+    "55x33",
+    "55x34",
+    "56x34",
+    "66x42"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "3230104",
+  "name": "胖球鱼",
+  "frames": 12,
+  "sizes": [
+    "70x58",
+    "71x59",
+    "73x59",
+    "75x59",
+    "76x59",
+    "83x59",
+    "88x59",
+    "91x59"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

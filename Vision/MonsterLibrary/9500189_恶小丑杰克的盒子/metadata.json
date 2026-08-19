@@ -1,0 +1,17 @@
+{
+  "id": "9500189",
+  "name": "恶小丑杰克的盒子",
+  "frames": 12,
+  "sizes": [
+    "108x126",
+    "122x123",
+    "127x123",
+    "131x125",
+    "143x128",
+    "67x40",
+    "71x38",
+    "71x48",
+    "82x55"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

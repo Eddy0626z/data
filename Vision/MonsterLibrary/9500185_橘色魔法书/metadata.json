@@ -1,0 +1,12 @@
+{
+  "id": "9500185",
+  "name": "橘色魔法书",
+  "frames": 5,
+  "sizes": [
+    "41x30",
+    "57x29",
+    "69x29",
+    "75x27"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

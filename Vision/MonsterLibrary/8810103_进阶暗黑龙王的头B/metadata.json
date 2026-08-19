@@ -1,0 +1,14 @@
+{
+  "id": "8810103",
+  "name": "进阶暗黑龙王的头B",
+  "frames": 6,
+  "sizes": [
+    "101x111",
+    "132x138",
+    "146x152",
+    "34x35",
+    "47x53",
+    "74x75"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

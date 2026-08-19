@@ -1,0 +1,18 @@
+{
+  "id": "9400003",
+  "name": "亡灵",
+  "frames": 12,
+  "sizes": [
+    "38x44",
+    "38x46",
+    "40x44",
+    "41x42",
+    "41x44",
+    "44x52",
+    "46x42",
+    "58x53",
+    "87x92",
+    "87x94"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

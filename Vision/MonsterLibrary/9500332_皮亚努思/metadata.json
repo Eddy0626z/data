@@ -1,0 +1,16 @@
+{
+  "id": "9500332",
+  "name": "皮亚努思",
+  "frames": 8,
+  "sizes": [
+    "101x113",
+    "138x148",
+    "160x172",
+    "208x209",
+    "224x235",
+    "258x270",
+    "35x48",
+    "78x80"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

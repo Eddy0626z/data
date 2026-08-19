@@ -1,0 +1,18 @@
+{
+  "id": "9400001",
+  "name": "火狸猫",
+  "frames": 10,
+  "sizes": [
+    "67x72",
+    "69x79",
+    "70x51",
+    "70x79",
+    "72x72",
+    "75x72",
+    "76x64",
+    "76x75",
+    "80x46",
+    "88x81"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

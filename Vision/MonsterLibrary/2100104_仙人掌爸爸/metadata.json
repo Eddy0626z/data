@@ -1,0 +1,19 @@
+{
+  "id": "2100104",
+  "name": "仙人掌爸爸",
+  "frames": 20,
+  "sizes": [
+    "74x83",
+    "74x88",
+    "74x89",
+    "74x90",
+    "74x91",
+    "78x83",
+    "82x82",
+    "83x15",
+    "83x18",
+    "88x90",
+    "90x98"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

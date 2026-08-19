@@ -1,0 +1,19 @@
+{
+  "id": "5400000",
+  "name": "小企鹅王",
+  "frames": 18,
+  "sizes": [
+    "33x31",
+    "33x32",
+    "33x33",
+    "33x34",
+    "34x32",
+    "35x32",
+    "36x34",
+    "37x32",
+    "39x31",
+    "48x22",
+    "49x24"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

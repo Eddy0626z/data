@@ -1,0 +1,15 @@
+{
+  "id": "9300000",
+  "name": "青蛇(PQ)",
+  "frames": 9,
+  "sizes": [
+    "22x37",
+    "28x28",
+    "28x29",
+    "31x28",
+    "33x28",
+    "46x18",
+    "46x32"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

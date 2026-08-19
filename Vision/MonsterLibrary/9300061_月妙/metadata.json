@@ -1,0 +1,19 @@
+{
+  "id": "9300061",
+  "name": "月妙",
+  "frames": 20,
+  "sizes": [
+    "85x109",
+    "85x115",
+    "85x118",
+    "85x119",
+    "85x120",
+    "85x121",
+    "85x52",
+    "85x99",
+    "90x118",
+    "93x78",
+    "94x86"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

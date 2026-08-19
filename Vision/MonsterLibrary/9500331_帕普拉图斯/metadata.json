@@ -1,0 +1,17 @@
+{
+  "id": "9500331",
+  "name": "帕普拉图斯",
+  "frames": 9,
+  "sizes": [
+    "139x151",
+    "175x177",
+    "199x201",
+    "227x239",
+    "259x260",
+    "280x282",
+    "37x39",
+    "56x68",
+    "92x104"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "4220001",
+  "name": "歇尔夫",
+  "frames": 9,
+  "sizes": [
+    "140x130",
+    "140x132",
+    "140x133",
+    "140x151",
+    "140x152",
+    "140x153",
+    "140x77",
+    "140x78",
+    "140x80"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

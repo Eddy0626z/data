@@ -1,0 +1,14 @@
+{
+  "id": "9410009",
+  "name": "雪人玩偶",
+  "frames": 12,
+  "sizes": [
+    "33x36",
+    "33x37",
+    "37x40",
+    "37x43",
+    "38x35",
+    "39x44"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

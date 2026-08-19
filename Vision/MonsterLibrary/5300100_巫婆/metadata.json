@@ -1,0 +1,16 @@
+{
+  "id": "5300100",
+  "name": "巫婆",
+  "frames": 8,
+  "sizes": [
+    "106x63",
+    "106x65",
+    "106x67",
+    "107x73",
+    "110x75",
+    "80x94",
+    "86x75",
+    "88x73"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "9300312",
+  "name": "生金蛋的飞猪",
+  "frames": 14,
+  "sizes": [
+    "65x53",
+    "67x52",
+    "68x52",
+    "68x53",
+    "68x54",
+    "71x59",
+    "78x57",
+    "81x57"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

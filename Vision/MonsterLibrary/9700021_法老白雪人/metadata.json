@@ -1,0 +1,18 @@
+{
+  "id": "9700021",
+  "name": "法老白雪人",
+  "frames": 13,
+  "sizes": [
+    "173x67",
+    "215x60",
+    "246x44",
+    "60x169",
+    "67x169",
+    "69x169",
+    "71x176",
+    "71x68",
+    "72x169",
+    "72x39"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

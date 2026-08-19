@@ -1,0 +1,19 @@
+{
+  "id": "2100105",
+  "name": "沙漠蛇先生",
+  "frames": 15,
+  "sizes": [
+    "53x70",
+    "55x69",
+    "55x70",
+    "60x70",
+    "65x70",
+    "67x72",
+    "68x68",
+    "79x85",
+    "84x85",
+    "86x85",
+    "90x50"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

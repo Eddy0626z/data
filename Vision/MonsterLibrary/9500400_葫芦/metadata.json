@@ -1,0 +1,13 @@
+{
+  "id": "9500400",
+  "name": "葫芦",
+  "frames": 7,
+  "sizes": [
+    "107x99",
+    "111x99",
+    "90x97",
+    "90x98",
+    "95x96"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

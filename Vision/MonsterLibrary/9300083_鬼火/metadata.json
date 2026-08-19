@@ -1,0 +1,16 @@
+{
+  "id": "9300083",
+  "name": "鬼火",
+  "frames": 13,
+  "sizes": [
+    "39x48",
+    "40x49",
+    "40x50",
+    "41x46",
+    "41x48",
+    "41x49",
+    "41x50",
+    "42x50"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

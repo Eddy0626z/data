@@ -1,0 +1,16 @@
+{
+  "id": "2230101",
+  "name": "无魂蘑菇",
+  "frames": 9,
+  "sizes": [
+    "59x52",
+    "61x44",
+    "61x59",
+    "62x64",
+    "62x75",
+    "63x58",
+    "63x67",
+    "64x55"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

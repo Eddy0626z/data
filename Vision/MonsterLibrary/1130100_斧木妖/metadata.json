@@ -1,0 +1,17 @@
+{
+  "id": "1130100",
+  "name": "斧木妖",
+  "frames": 9,
+  "sizes": [
+    "58x91",
+    "59x93",
+    "61x67",
+    "61x84",
+    "61x92",
+    "62x74",
+    "65x73",
+    "66x77",
+    "74x72"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

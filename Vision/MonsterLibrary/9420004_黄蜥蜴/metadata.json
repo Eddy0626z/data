@@ -1,0 +1,16 @@
+{
+  "id": "9420004",
+  "name": "黄蜥蜴",
+  "frames": 14,
+  "sizes": [
+    "148x62",
+    "148x71",
+    "149x59",
+    "149x60",
+    "149x61",
+    "157x59",
+    "163x35",
+    "166x34"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

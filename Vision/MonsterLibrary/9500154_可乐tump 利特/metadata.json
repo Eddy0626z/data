@@ -1,0 +1,18 @@
+{
+  "id": "9500154",
+  "name": "可乐tump 利特",
+  "frames": 14,
+  "sizes": [
+    "47x21",
+    "47x24",
+    "51x61",
+    "51x62",
+    "51x63",
+    "53x45",
+    "66x69",
+    "69x38",
+    "69x57",
+    "72x52"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

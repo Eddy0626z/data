@@ -1,0 +1,16 @@
+{
+  "id": "9300043",
+  "name": "女神塔的黄独角狮",
+  "frames": 13,
+  "sizes": [
+    "53x63",
+    "55x57",
+    "58x53",
+    "59x55",
+    "59x56",
+    "60x50",
+    "60x57",
+    "61x47"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

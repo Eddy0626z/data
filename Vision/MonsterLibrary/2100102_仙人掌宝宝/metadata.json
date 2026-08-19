@@ -1,0 +1,19 @@
+{
+  "id": "2100102",
+  "name": "仙人掌宝宝",
+  "frames": 18,
+  "sizes": [
+    "52x62",
+    "52x63",
+    "52x64",
+    "53x61",
+    "53x63",
+    "53x64",
+    "54x61",
+    "54x62",
+    "73x61",
+    "75x61",
+    "83x69"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

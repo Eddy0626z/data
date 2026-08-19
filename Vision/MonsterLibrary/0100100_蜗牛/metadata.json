@@ -1,0 +1,17 @@
+{
+  "id": "0100100",
+  "name": "蜗牛",
+  "frames": 13,
+  "sizes": [
+    "33x14",
+    "35x18",
+    "35x23",
+    "36x24",
+    "36x25",
+    "37x24",
+    "37x26",
+    "43x33",
+    "44x31"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

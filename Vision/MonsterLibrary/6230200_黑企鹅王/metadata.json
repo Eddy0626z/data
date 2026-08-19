@@ -1,0 +1,17 @@
+{
+  "id": "6230200",
+  "name": "黑企鹅王",
+  "frames": 13,
+  "sizes": [
+    "63x54",
+    "63x56",
+    "64x53",
+    "65x58",
+    "68x68",
+    "68x83",
+    "69x83",
+    "70x59",
+    "75x58"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

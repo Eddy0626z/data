@@ -1,0 +1,16 @@
+{
+  "id": "9300044",
+  "name": "女神塔的黑格里芬",
+  "frames": 12,
+  "sizes": [
+    "55x66",
+    "59x73",
+    "59x84",
+    "62x59",
+    "62x74",
+    "63x70",
+    "63x72",
+    "66x55"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

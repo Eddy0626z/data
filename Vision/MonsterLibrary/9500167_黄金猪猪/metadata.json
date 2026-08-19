@@ -1,0 +1,19 @@
+{
+  "id": "9500167",
+  "name": "黄金猪猪",
+  "frames": 18,
+  "sizes": [
+    "101x74",
+    "63x58",
+    "63x59",
+    "63x61",
+    "65x54",
+    "65x55",
+    "66x54",
+    "86x69",
+    "92x66",
+    "94x71",
+    "96x56"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

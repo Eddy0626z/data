@@ -1,0 +1,15 @@
+{
+  "id": "3230304",
+  "name": "运输机",
+  "frames": 9,
+  "sizes": [
+    "58x39",
+    "58x43",
+    "58x47",
+    "58x58",
+    "59x41",
+    "61x41",
+    "64x47"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2230107",
+  "name": "独角小丑鱼",
+  "frames": 18,
+  "sizes": [
+    "60x40",
+    "60x41",
+    "62x40",
+    "63x40",
+    "64x40",
+    "65x40",
+    "65x41",
+    "65x42",
+    "66x42",
+    "66x44",
+    "67x45"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "3300000",
+  "name": "得意的蘑菇仔",
+  "frames": 16,
+  "sizes": [
+    "38x38",
+    "43x42",
+    "43x43",
+    "43x44",
+    "43x45",
+    "45x28",
+    "46x30",
+    "47x29",
+    "57x47",
+    "62x46",
+    "76x40"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

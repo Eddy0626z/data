@@ -1,0 +1,16 @@
+{
+  "id": "3230308",
+  "name": "空军雀",
+  "frames": 10,
+  "sizes": [
+    "47x54",
+    "54x52",
+    "55x42",
+    "56x40",
+    "56x41",
+    "56x43",
+    "57x42",
+    "57x52"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

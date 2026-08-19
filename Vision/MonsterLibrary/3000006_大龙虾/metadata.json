@@ -1,0 +1,15 @@
+{
+  "id": "3000006",
+  "name": "大龙虾",
+  "frames": 13,
+  "sizes": [
+    "58x80",
+    "63x80",
+    "67x80",
+    "71x80",
+    "74x77",
+    "75x79",
+    "80x79"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

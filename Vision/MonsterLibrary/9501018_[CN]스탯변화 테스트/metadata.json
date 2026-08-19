@@ -1,0 +1,17 @@
+{
+  "id": "9501018",
+  "name": "[CN]스탯변화 테스트",
+  "frames": 20,
+  "sizes": [
+    "25x64",
+    "43x51",
+    "48x46",
+    "48x55",
+    "51x50",
+    "55x33",
+    "55x34",
+    "56x34",
+    "66x42"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

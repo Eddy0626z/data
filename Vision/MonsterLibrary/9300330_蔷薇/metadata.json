@@ -1,0 +1,16 @@
+{
+  "id": "9300330",
+  "name": "蔷薇",
+  "frames": 8,
+  "sizes": [
+    "22x33",
+    "47x35",
+    "55x37",
+    "67x39",
+    "70x41",
+    "72x43",
+    "80x77",
+    "99x107"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

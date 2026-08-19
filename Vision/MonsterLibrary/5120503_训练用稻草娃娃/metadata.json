@@ -1,0 +1,16 @@
+{
+  "id": "5120503",
+  "name": "训练用稻草娃娃",
+  "frames": 19,
+  "sizes": [
+    "78x77",
+    "78x82",
+    "78x84",
+    "78x85",
+    "78x86",
+    "78x87",
+    "79x87",
+    "81x90"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

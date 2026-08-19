@@ -1,0 +1,17 @@
+{
+  "id": "9300018",
+  "name": "特殊小石球",
+  "frames": 13,
+  "sizes": [
+    "21x22",
+    "26x23",
+    "32x26",
+    "38x68",
+    "40x67",
+    "40x68",
+    "41x70",
+    "43x43",
+    "56x53"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

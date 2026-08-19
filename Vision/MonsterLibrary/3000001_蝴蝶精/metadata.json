@@ -1,0 +1,18 @@
+{
+  "id": "3000001",
+  "name": "蝴蝶精",
+  "frames": 12,
+  "sizes": [
+    "32x58",
+    "33x46",
+    "47x51",
+    "49x46",
+    "49x60",
+    "49x62",
+    "50x55",
+    "51x52",
+    "52x54",
+    "57x78"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

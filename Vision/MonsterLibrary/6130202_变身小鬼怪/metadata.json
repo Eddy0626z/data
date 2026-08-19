@@ -1,0 +1,12 @@
+{
+  "id": "6130202",
+  "name": "变身小鬼怪",
+  "frames": 4,
+  "sizes": [
+    "130x140",
+    "26x39",
+    "74x75",
+    "99x109"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

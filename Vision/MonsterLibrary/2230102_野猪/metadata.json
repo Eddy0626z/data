@@ -1,0 +1,19 @@
+{
+  "id": "2230102",
+  "name": "野猪",
+  "frames": 12,
+  "sizes": [
+    "70x52",
+    "71x47",
+    "71x48",
+    "71x50",
+    "72x43",
+    "72x49",
+    "72x50",
+    "73x41",
+    "83x47",
+    "83x49",
+    "87x47"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

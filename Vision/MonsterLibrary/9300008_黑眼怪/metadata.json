@@ -1,0 +1,11 @@
+{
+  "id": "9300008",
+  "name": "黑眼怪",
+  "frames": 10,
+  "sizes": [
+    "57x68",
+    "58x68",
+    "62x68"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

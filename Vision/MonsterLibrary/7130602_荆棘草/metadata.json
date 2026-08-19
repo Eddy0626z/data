@@ -1,0 +1,14 @@
+{
+  "id": "7130602",
+  "name": "荆棘草",
+  "frames": 6,
+  "sizes": [
+    "22x33",
+    "47x35",
+    "55x37",
+    "67x39",
+    "70x41",
+    "72x43"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "6130102",
+  "name": "孤单企鹅王",
+  "frames": 13,
+  "sizes": [
+    "63x54",
+    "63x56",
+    "64x53",
+    "65x58",
+    "67x59",
+    "68x68",
+    "68x83",
+    "69x83",
+    "73x58"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

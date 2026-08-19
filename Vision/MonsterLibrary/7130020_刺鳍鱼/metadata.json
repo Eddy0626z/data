@@ -1,0 +1,20 @@
+{
+  "id": "7130020",
+  "name": "刺鳍鱼",
+  "frames": 14,
+  "sizes": [
+    "42x73",
+    "46x49",
+    "47x49",
+    "47x80",
+    "54x49",
+    "54x51",
+    "60x80",
+    "62x49",
+    "63x78",
+    "64x61",
+    "66x76",
+    "67x49"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

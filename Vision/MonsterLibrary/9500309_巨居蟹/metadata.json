@@ -1,0 +1,11 @@
+{
+  "id": "9500309",
+  "name": "巨居蟹",
+  "frames": 3,
+  "sizes": [
+    "132x144",
+    "176x186",
+    "90x100"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

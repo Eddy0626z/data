@@ -1,0 +1,20 @@
+{
+  "id": "9300311",
+  "name": "棒棒猫",
+  "frames": 12,
+  "sizes": [
+    "63x68",
+    "63x70",
+    "63x72",
+    "64x67",
+    "64x69",
+    "65x68",
+    "66x69",
+    "67x67",
+    "67x68",
+    "68x69",
+    "69x68",
+    "70x69"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

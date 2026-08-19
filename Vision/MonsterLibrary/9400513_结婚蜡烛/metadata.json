@@ -1,0 +1,18 @@
+{
+  "id": "9400513",
+  "name": "结婚蜡烛",
+  "frames": 22,
+  "sizes": [
+    "39x62",
+    "39x75",
+    "39x77",
+    "39x78",
+    "42x77",
+    "43x67",
+    "44x73",
+    "45x51",
+    "48x77",
+    "49x77"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

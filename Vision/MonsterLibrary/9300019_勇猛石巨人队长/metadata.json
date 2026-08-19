@@ -1,0 +1,13 @@
+{
+  "id": "9300019",
+  "name": "勇猛石巨人队长",
+  "frames": 5,
+  "sizes": [
+    "103x115",
+    "136x137",
+    "162x174",
+    "24x36",
+    "68x80"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

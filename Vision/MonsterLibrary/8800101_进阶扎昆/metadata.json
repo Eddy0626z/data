@@ -1,0 +1,16 @@
+{
+  "id": "8800101",
+  "name": "进阶扎昆",
+  "frames": 8,
+  "sizes": [
+    "124x130",
+    "167x180",
+    "204x216",
+    "253x254",
+    "279x292",
+    "32x42",
+    "54x67",
+    "88x89"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

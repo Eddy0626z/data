@@ -1,0 +1,13 @@
+{
+  "id": "8800104",
+  "name": "进阶扎昆手臂2",
+  "frames": 5,
+  "sizes": [
+    "128x140",
+    "177x189",
+    "227x239",
+    "42x52",
+    "82x94"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

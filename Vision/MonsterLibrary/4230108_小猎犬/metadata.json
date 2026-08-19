@@ -1,0 +1,17 @@
+{
+  "id": "4230108",
+  "name": "小猎犬",
+  "frames": 14,
+  "sizes": [
+    "37x35",
+    "37x39",
+    "38x37",
+    "38x38",
+    "38x39",
+    "38x42",
+    "38x46",
+    "39x37",
+    "39x39"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

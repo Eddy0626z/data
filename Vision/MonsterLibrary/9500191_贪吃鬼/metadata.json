@@ -1,0 +1,19 @@
+{
+  "id": "9500191",
+  "name": "贪吃鬼",
+  "frames": 16,
+  "sizes": [
+    "46x78",
+    "58x65",
+    "58x75",
+    "63x64",
+    "65x70",
+    "66x63",
+    "67x73",
+    "68x67",
+    "69x65",
+    "69x68",
+    "70x65"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

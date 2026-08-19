@@ -1,0 +1,19 @@
+{
+  "id": "3230100",
+  "name": "风独眼兽",
+  "frames": 11,
+  "sizes": [
+    "115x37",
+    "123x37",
+    "81x57",
+    "83x54",
+    "85x58",
+    "87x59",
+    "89x55",
+    "94x54",
+    "97x50",
+    "98x45",
+    "99x50"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "9300058",
+  "name": "猪",
+  "frames": 11,
+  "sizes": [
+    "60x54",
+    "66x43",
+    "66x49",
+    "67x45",
+    "67x46",
+    "68x40",
+    "68x51",
+    "69x38",
+    "69x56"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

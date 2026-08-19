@@ -1,0 +1,20 @@
+{
+  "id": "9500156",
+  "name": "大幽灵",
+  "frames": 12,
+  "sizes": [
+    "56x83",
+    "59x83",
+    "65x60",
+    "67x60",
+    "67x63",
+    "70x58",
+    "70x60",
+    "81x85",
+    "84x65",
+    "87x72",
+    "87x76",
+    "92x77"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

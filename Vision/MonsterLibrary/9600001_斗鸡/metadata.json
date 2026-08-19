@@ -1,0 +1,20 @@
+{
+  "id": "9600001",
+  "name": "斗鸡",
+  "frames": 14,
+  "sizes": [
+    "62x94",
+    "70x77",
+    "70x79",
+    "72x71",
+    "72x74",
+    "72x75",
+    "73x55",
+    "73x73",
+    "74x82",
+    "75x76",
+    "76x60",
+    "85x71"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

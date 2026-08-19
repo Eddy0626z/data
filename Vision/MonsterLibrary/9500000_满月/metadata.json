@@ -1,0 +1,16 @@
+{
+  "id": "9500000",
+  "name": "满月",
+  "frames": 8,
+  "sizes": [
+    "160x94",
+    "170x94",
+    "180x94",
+    "188x92",
+    "197x92",
+    "205x90",
+    "207x90",
+    "213x88"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

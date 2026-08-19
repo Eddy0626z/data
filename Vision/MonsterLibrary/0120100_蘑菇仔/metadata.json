@@ -1,0 +1,16 @@
+{
+  "id": "0120100",
+  "name": "蘑菇仔",
+  "frames": 11,
+  "sizes": [
+    "34x37",
+    "35x36",
+    "35x37",
+    "36x36",
+    "37x36",
+    "38x33",
+    "41x32",
+    "45x27"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9300022",
+  "name": "暗夜幽灵",
+  "frames": 4,
+  "sizes": [
+    "132x144",
+    "181x194",
+    "44x54",
+    "88x98"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

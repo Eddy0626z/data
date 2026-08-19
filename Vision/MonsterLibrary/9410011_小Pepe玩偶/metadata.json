@@ -1,0 +1,12 @@
+{
+  "id": "9410011",
+  "name": "小Pepe玩偶",
+  "frames": 11,
+  "sizes": [
+    "23x22",
+    "23x23",
+    "25x25",
+    "26x26"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

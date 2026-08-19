@@ -1,0 +1,20 @@
+{
+  "id": "9600004",
+  "name": "山羊",
+  "frames": 18,
+  "sizes": [
+    "68x80",
+    "68x91",
+    "69x80",
+    "71x77",
+    "71x78",
+    "72x77",
+    "72x78",
+    "74x77",
+    "74x78",
+    "85x81",
+    "91x68",
+    "95x41"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

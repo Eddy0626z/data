@@ -1,0 +1,12 @@
+{
+  "id": "9300023",
+  "name": "雾幽灵",
+  "frames": 4,
+  "sizes": [
+    "138x150",
+    "184x194",
+    "42x54",
+    "88x101"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

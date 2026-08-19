@@ -1,0 +1,19 @@
+{
+  "id": "2230106",
+  "name": "大海马",
+  "frames": 14,
+  "sizes": [
+    "46x69",
+    "46x70",
+    "47x69",
+    "48x69",
+    "50x68",
+    "51x69",
+    "51x70",
+    "52x70",
+    "53x71",
+    "55x69",
+    "66x72"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

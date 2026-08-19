@@ -1,0 +1,19 @@
+{
+  "id": "2230105",
+  "name": "小海马",
+  "frames": 12,
+  "sizes": [
+    "43x63",
+    "43x65",
+    "43x67",
+    "44x66",
+    "44x69",
+    "45x64",
+    "45x67",
+    "45x68",
+    "46x65",
+    "46x67",
+    "61x75"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

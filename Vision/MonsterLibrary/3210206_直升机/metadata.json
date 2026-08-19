@@ -1,0 +1,15 @@
+{
+  "id": "3210206",
+  "name": "直升机",
+  "frames": 12,
+  "sizes": [
+    "50x46",
+    "55x46",
+    "55x48",
+    "55x54",
+    "55x60",
+    "58x66",
+    "58x68"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

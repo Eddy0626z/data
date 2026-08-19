@@ -1,0 +1,15 @@
+{
+  "id": "2230109",
+  "name": "蓝泡泡翻车鱼",
+  "frames": 12,
+  "sizes": [
+    "64x52",
+    "64x54",
+    "65x58",
+    "67x53",
+    "78x71",
+    "82x71",
+    "86x63"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

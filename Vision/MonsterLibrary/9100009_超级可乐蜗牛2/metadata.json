@@ -1,0 +1,15 @@
+{
+  "id": "9100009",
+  "name": "超级可乐蜗牛2",
+  "frames": 8,
+  "sizes": [
+    "41x35",
+    "43x35",
+    "43x39",
+    "45x35",
+    "47x35",
+    "49x35",
+    "58x33"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

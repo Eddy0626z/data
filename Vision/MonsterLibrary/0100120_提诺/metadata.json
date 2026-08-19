@@ -1,0 +1,17 @@
+{
+  "id": "0100120",
+  "name": "提诺",
+  "frames": 14,
+  "sizes": [
+    "31x32",
+    "33x30",
+    "33x34",
+    "33x35",
+    "35x34",
+    "44x36",
+    "57x36",
+    "59x33",
+    "60x33"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

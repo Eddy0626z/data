@@ -1,0 +1,12 @@
+{
+  "id": "8800006",
+  "name": "扎昆手臂4",
+  "frames": 4,
+  "sizes": [
+    "118x119",
+    "40x50",
+    "76x82",
+    "99x105"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

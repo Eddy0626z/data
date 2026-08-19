@@ -1,0 +1,14 @@
+{
+  "id": "2110200",
+  "name": "刺蘑菇",
+  "frames": 11,
+  "sizes": [
+    "56x51",
+    "56x52",
+    "56x56",
+    "57x46",
+    "57x49",
+    "57x50"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

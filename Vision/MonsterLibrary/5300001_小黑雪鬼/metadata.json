@@ -1,0 +1,13 @@
+{
+  "id": "5300001",
+  "name": "小黑雪鬼",
+  "frames": 14,
+  "sizes": [
+    "31x30",
+    "31x31",
+    "47x43",
+    "49x47",
+    "51x49"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

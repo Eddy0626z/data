@@ -1,0 +1,17 @@
+{
+  "id": "9300298",
+  "name": "迷宫红色漂漂猪",
+  "frames": 9,
+  "sizes": [
+    "60x54",
+    "66x49",
+    "66x52",
+    "67x49",
+    "68x47",
+    "68x49",
+    "68x55",
+    "69x45",
+    "69x56"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "9300001",
+  "name": "鳄鱼(PQ)",
+  "frames": 9,
+  "sizes": [
+    "80x29",
+    "83x29",
+    "86x29",
+    "87x29",
+    "88x41",
+    "91x47",
+    "92x39"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "9300352",
+  "name": "墨镜将军",
+  "frames": 25,
+  "sizes": [
+    "15x16",
+    "31x25",
+    "56x32",
+    "71x58",
+    "78x76",
+    "79x80",
+    "79x84"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

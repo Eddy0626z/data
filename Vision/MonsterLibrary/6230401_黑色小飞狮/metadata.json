@@ -1,0 +1,14 @@
+{
+  "id": "6230401",
+  "name": "黑色小飞狮",
+  "frames": 12,
+  "sizes": [
+    "38x54",
+    "41x51",
+    "42x53",
+    "43x57",
+    "45x46",
+    "46x44"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

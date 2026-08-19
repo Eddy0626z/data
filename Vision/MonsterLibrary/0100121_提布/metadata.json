@@ -1,0 +1,18 @@
+{
+  "id": "0100121",
+  "name": "提布",
+  "frames": 14,
+  "sizes": [
+    "44x46",
+    "44x48",
+    "44x49",
+    "44x50",
+    "44x51",
+    "44x52",
+    "54x57",
+    "65x57",
+    "72x50",
+    "75x49"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}

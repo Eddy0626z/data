@@ -1,0 +1,17 @@
+{
+  "id": "4230103",
+  "name": "铁甲猪",
+  "frames": 12,
+  "sizes": [
+    "67x49",
+    "68x44",
+    "68x46",
+    "68x47",
+    "69x49",
+    "70x56",
+    "94x44",
+    "94x45",
+    "95x44"
+  ],
+  "source": "MapleStory Classic (Unity Addressables)"
+}
